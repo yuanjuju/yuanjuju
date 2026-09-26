@@ -30,7 +30,7 @@
 ## 🔬 Research & learning
 
 - [MetaToken-FusAtNet](https://github.com/yuanjuju/MetaToken-FusAtNet) — Hyperspectral and LiDAR multimodal classification.
-- [minimind-learning](https://github.com/yuanjuju/minimind-learning) — Pretraining, SFT, and inference experiments based on MiniMind.
+- [MiniMind Training Systems Lab](https://github.com/yuanjuju/minimind-learning) — Two-stage language model training, supervision contracts, decoder architecture auditing, and optimizer state analysis.
 - [vLLM Inference Systems Lab](https://github.com/yuanjuju/vllm-lab) — Heterogeneous backend validation, runtime observability, and SLO-constrained inference performance analysis.
 
 ## 📝 Recent posts
