@@ -31,7 +31,7 @@
 
 - [MetaToken-FusAtNet](https://github.com/yuanjuju/MetaToken-FusAtNet) — Hyperspectral and LiDAR multimodal classification.
 - [minimind-learning](https://github.com/yuanjuju/minimind-learning) — Pretraining, SFT, and inference experiments based on MiniMind.
-- [vllm-lab](https://github.com/yuanjuju/vllm-lab) — Inference serving, scheduling, and KV cache experiments.
+- [vLLM Inference Systems Lab](https://github.com/yuanjuju/vllm-lab) — Heterogeneous backend validation, runtime observability, and SLO-constrained inference performance analysis.
 
 ## 📝 Recent posts
 

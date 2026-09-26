@@ -31,7 +31,7 @@
 
 - [MetaToken-FusAtNet](https://github.com/yuanjuju/MetaToken-FusAtNet) — 高光谱与 LiDAR 多模态分类。
 - [minimind-learning](https://github.com/yuanjuju/minimind-learning) — 基于 MiniMind 的预训练、SFT 与推理实验。
-- [vllm-lab](https://github.com/yuanjuju/vllm-lab) — 推理部署、调度与 KV Cache 实验。
+- [vLLM Inference Systems Lab](https://github.com/yuanjuju/vllm-lab) — 异构后端验证、运行时观测与 SLO 约束下的推理性能分析。
 
 ## 📝 最近写的
 
