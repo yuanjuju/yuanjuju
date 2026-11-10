@@ -1834,8 +1834,8 @@
     },
     {
       "date": "2026-11-10",
-      "count": 0,
-      "level": 0
+      "count": 12,
+      "level": 2
     }
   ],
   "repos": [
@@ -1907,6 +1907,12 @@
     },
     {
       "name": "sr-training-workbench",
+      "language": "Python",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "sst-super-resolution-benchmark",
       "language": "Python",
       "fork": false,
       "stars": 0
